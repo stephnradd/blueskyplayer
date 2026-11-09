@@ -1,0 +1,46 @@
+C:\Users\Fariz Tech\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\bin\Release\blueskyplay.exe.config
+C:\Users\Fariz Tech\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\Fariz Tech\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\Fariz Tech\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\obj\x86\Release\Febrian Multi Player Alpha Preview.vbproj.ResolveComReference.cache
+C:\Users\Fariz Tech\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\obj\x86\Release\bluesky_play.Form1.resources
+C:\Users\Fariz Tech\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\obj\x86\Release\bluesky_play.Form10.resources
+C:\Users\Fariz Tech\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\obj\x86\Release\bluesky_play.Form11.resources
+C:\Users\Fariz Tech\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\obj\x86\Release\bluesky_play.Form12.resources
+C:\Users\Fariz Tech\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\obj\x86\Release\bluesky_play.Form18.resources
+C:\Users\Fariz Tech\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\obj\x86\Release\bluesky_play.Form2.resources
+C:\Users\Fariz Tech\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\obj\x86\Release\bluesky_play.Form21.resources
+C:\Users\Fariz Tech\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\obj\x86\Release\bluesky_play.Form22.resources
+C:\Users\Fariz Tech\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\obj\x86\Release\bluesky_play.Form3.resources
+C:\Users\Fariz Tech\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\obj\x86\Release\bluesky_play.Form4.resources
+C:\Users\Fariz Tech\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\obj\x86\Release\bluesky_play.Form5.resources
+C:\Users\Fariz Tech\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\obj\x86\Release\bluesky_play.Form6.resources
+C:\Users\Fariz Tech\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\obj\x86\Release\bluesky_play.Form7.resources
+C:\Users\Fariz Tech\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\obj\x86\Release\bluesky_play.Form8.resources
+C:\Users\Fariz Tech\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\obj\x86\Release\bluesky_play.Form9.resources
+C:\Users\Fariz Tech\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\obj\x86\Release\bluesky_play.Resources.resources
+C:\Users\Fariz Tech\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\obj\x86\Release\bluesky_play.SplashScreen1.resources
+C:\Users\Fariz Tech\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\obj\x86\Release\bluesky_play.Form5.id-ID.resources
+C:\Users\Fariz Tech\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\obj\x86\Release\Febrian Multi Player Alpha Preview.vbproj.GenerateResource.Cache
+C:\Users\Fariz Tech\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\obj\x86\Release\id-ID\blueskyplay.resources.dll
+C:\Users\Fariz Tech\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\obj\x86\Release\blueskyplay.exe
+C:\Users\Fariz Tech\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\obj\x86\Release\blueskyplay.xml
+C:\Users\Fariz Tech\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\obj\x86\Release\blueskyplay.pdb
+C:\Users\Fariz Tech\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\bin\Release\blueskyplay.exe.manifest
+C:\Users\Fariz Tech\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\bin\Release\blueskyplay.application
+C:\Users\Fariz Tech\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\bin\Release\blueskyplay.exe
+C:\Users\Fariz Tech\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\bin\Release\blueskyplay.pdb
+C:\Users\Fariz Tech\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\bin\Release\blueskyplay.xml
+C:\Users\Fariz Tech\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\bin\Release\id-ID\blueskyplay.resources.dll
+C:\Users\Fariz Tech\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\bin\Release\Interop.WMPLib.dll
+C:\Users\Fariz Tech\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Fariz Tech\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\obj\x86\Release\Febrian Multi Player Alpha Preview.vbprojResolveAssemblyReference.cache
+C:\Users\Fariz Tech\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\obj\x86\Release\blueskyplay.exe.manifest
+C:\Users\Fariz Tech\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\obj\x86\Release\blueskyplay.application
+D:\backups\old HDD\a1\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\bin\Release\blueskyplay.exe.config
+D:\backups\old HDD\a1\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\obj\x86\Release\Interop.WMPLib.dll
+D:\backups\old HDD\a1\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\obj\x86\Release\AxInterop.WMPLib.dll
+D:\backups\old HDD\a1\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\obj\x86\Release\Febrian Multi Player Alpha Preview.vbproj.ResolveComReference.cache
+D:\backups\old HDD\a1\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\obj\x86\Release\blueskyplay.exe
+D:\backups\old HDD\a1\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\obj\x86\Release\blueskyplay.xml
+D:\backups\old HDD\a1\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\obj\x86\Release\blueskyplay.pdb
+D:\backups\old HDD\a1\Documents\Visual Studio 2010\Projects\Bluesky Player\Febrian Multi Player Alpha Preview\obj\x86\Release\Febrian Multi Player Alpha Preview.vbprojResolveAssemblyReference.cache
